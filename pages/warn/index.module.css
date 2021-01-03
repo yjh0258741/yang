@@ -1,3 +1,12 @@
-.ww{
-    background: red;
+
+.svg {
+    transform: rotate(-90deg);
+    position: relative;
+
+}
+.mycircle{
+    stroke: #f00;
+    fill:rgba(0,0,0,0);
+    stroke-width: 10px;
+    stroke-dasharray: 0  1000;
 }
