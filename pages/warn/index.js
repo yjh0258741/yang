@@ -5,7 +5,7 @@ export default function warn(){
         console.log('1');
     });
     return ( <div className={styles.ww}>
-        456
+        678
         </div>
     )
 }
